@@ -1,4 +1,4 @@
-Scrapy 爬虫项目
+Scrapy 爬虫
 ===
 
 windows项目流程：
